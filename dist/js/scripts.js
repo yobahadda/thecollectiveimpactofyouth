@@ -1,7 +1,7 @@
 /*!
 * Start Bootstrap - Creative v7.0.7 (https://startbootstrap.com/theme/creative)
-* Copyright 2013-2024 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
+* Copyright 2013-2024 undefined
+* Licensed under undefined (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
 */
 //
 // Scripts
