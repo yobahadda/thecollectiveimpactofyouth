@@ -5,7 +5,7 @@
     
 
     "scripts": {
-        "build": "npm run build",
+        "build": "npm run start",
         "build:assets": "node scripts/build-assets.js",
         "build:pug": "node scripts/build-pug.js",
         "build:scripts": "node scripts/build-scripts.js",
